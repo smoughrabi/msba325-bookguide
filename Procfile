@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run MSBA325_Assignment3_SarahElMoughrabi.py
