@@ -14,9 +14,9 @@ This visualizations found within the web app are my first attempts at utilizing 
 
 **The datasets used are**: 
 
-- has information on books featured on the social platform Goodreads, the top site for book recommendations and reviews. Data includes each book's rating count, author, and average rating.
-- has information on Amazon bestsellers throughout the years (duplicates exist since some books were bestsellers for more than one year)
-- lists books and their genres, and was used to make the book randomizer
+- **goodreads_books.csv** : has information on books featured on the social platform Goodreads, the top site for book recommendations and reviews. Data includes each book's rating count, author, and average rating.
+- **amazon_books.csv** : has information on Amazon bestsellers throughout the years (duplicates exist since some books were bestsellers for more than one year)
+- **bookswithgenres.csv** : lists books and their genres, and was used to make the book randomizer
 
 **images** : three images that were used within the web app are included as well 
 
