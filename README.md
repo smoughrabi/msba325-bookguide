@@ -8,11 +8,11 @@
 
 This visualizations found within the web app are my first attempts at utilizing the powerful visualization library Plotly in Python
 
-**Guide to navigate your way around the files
+**Guide to navigate your way around the files**
 
-msba325-
+**.py file** : Includes the code for the complete webapp 
 
-The datasets used are: 
+**The datasets used are**: 
 
 - has information on books featured on the social platform Goodreads, the top site for book recommendations and reviews. Data includes each book's rating count, author, and average rating.
 - has information on Amazon bestsellers throughout the years (duplicates exist since some books were bestsellers for more than one year)
