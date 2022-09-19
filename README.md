@@ -4,8 +4,6 @@
 
 ##### This is an interactive book guide which compiles insights from both amazon and goodreads on best selling books. It also has a book randomizer which can be used to get random book recommendations based on the user's category of choice.
 
-**Deployed App Link** : https://msba325-bookguide.herokuapp.com/ 
-
 This visualizations found within the web app are my first attempts at utilizing the powerful visualization library Plotly in Python
 
 **Guide to navigate your way around the files**
